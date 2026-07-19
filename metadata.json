@@ -1,0 +1,8 @@
+{
+  "name": "Food Recognizer",
+  "description": "A powerful food recognition app powered by machine learning and Gemini AI to identify dishes, recipes, and detailed nutritional values.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
